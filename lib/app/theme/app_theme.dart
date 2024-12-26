@@ -25,7 +25,7 @@ class AppTheme {
     scaffoldBackgroundColor: background,
 
     appBarTheme: AppBarTheme(
-      backgroundColor: background,
+      backgroundColor: primary,
       foregroundColor: textPrimary,
       elevation: 0,
       iconTheme: IconThemeData(color: textPrimary),
